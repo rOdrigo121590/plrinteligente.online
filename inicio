@@ -95,8 +95,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<style>/*! elementor - v3.7.2 - 21-08-2022 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>											
 
-				<div id="vid_64027888f29028000a873684" style="position:relative;width:100%;padding: 56.25% 0 0;"><img id="thumb_64027888f29028000a873684" src="https://images.converteai.net/289dcc9a-63ee-4c0a-a293-6278f855eb41/players/64027888f29028000a873684/thumbnail.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;"><div id="backdrop_64027888f29028000a873684" style="position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);"></div></div><script type="text/javascript" id="scr_64027888f29028000a873684">var s=document.createElement("script");s.src="https://scripts.converteai.net/289dcc9a-63ee-4c0a-a293-6278f855eb41/players/64027888f29028000a873684/player.js",s.async=!0,document.head.appendChild(s);</script>
-				</div>
+				<div id="vid_64027813ae81460009195336" style="position:relative;width:100%;padding: 56.25% 0 0;"><img id="thumb_64027813ae81460009195336" src="https://images.converteai.net/289dcc9a-63ee-4c0a-a293-6278f855eb41/players/64027813ae81460009195336/thumbnail.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;"><div id="backdrop_64027813ae81460009195336" style="position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);"></div></div><script type="text/javascript" id="scr_64027813ae81460009195336">var s=document.createElement("script");s.src="https://scripts.converteai.net/289dcc9a-63ee-4c0a-a293-6278f855eb41/players/64027813ae81460009195336/player.js",s.async=!0,document.head.appendChild(s);</script>
 				
 				<div class="elementor-element elementor-element-5bf75581 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5bf75581" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -121,8 +120,7 @@ function convertDate(e){var t,o=new Date(e);return[(t=o.getDate(),t<10?"0"+t:t)]
 </span>
 
 
-
-		      <!-- PLUGINS PARA NOTIFICAÇÃO DE ESCASSEZ -->
+<!-- PLUGINS PARA NOTIFICAÇÃO DE ESCASSEZ -->
 <button type="submit" data-action="add-to-cart"><img name="misto" id="prova-social" src="https://randersonaraujo.com/escassez/n1.png" class="img-responsive"></button>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
 <link rel='stylesheet' href='https://randersonaraujo.com/escassez/notificacao.css' type='text/css' media='all' />
@@ -180,9 +178,7 @@ function convertDate(e){var t,o=new Date(e);return[(t=o.getDate(),t<10?"0"+t:t)]
 </script>
 
 <!-- FIM DOS PLUGINS PARA NOTIFICAÇÃO DE ESCASSEZ -->
-
-
-																												
+																								
 				</div>
 					</div>
 		</div>
